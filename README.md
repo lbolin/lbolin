@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lauren! <br/><a href="https://www.linkedin.com/in/laurenbolin/">Data Intigration Analysts</a>
+<h1>Hi, I'm Lauren! <br/><a href="https://www.linkedin.com/in/laurenbolin/">Data Integration Analysts</a>
 
 <h2>Certifications:</h2>
   
